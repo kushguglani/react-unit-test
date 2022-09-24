@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing App snapshot and text should match a snapshot 1`] = `
+<DocumentFragment>
+  <section
+    class="myapp"
+  >
+    <div>
+      <h1>
+        Hi Hello react Kush Guglani 
+      </h1>
+    </div>
+    <div>
+      <h1>
+        Welcome to unit test case 
+      </h1>
+      <p>
+        we learn snapshot component 
+      </p>
+    </div>
+    <div>
+      <button
+        data-testid="button-up"
+      >
+        Increment
+      </button>
+      <button
+        data-testid="button-down"
+      >
+        Decrement
+      </button>
+      <button
+        data-testid="button-up-inc"
+      >
+        Increment After 5 sec
+      </button>
+      <p
+        data-testid="counter"
+      >
+        0
+      </p>
+    </div>
+  </section>
+</DocumentFragment>
+`;
